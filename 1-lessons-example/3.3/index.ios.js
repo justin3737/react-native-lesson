@@ -68,4 +68,4 @@ var styles = StyleSheet.create({
   }
 });
 
-AppRegistry.registerComponent('simple', () => NV);
+AppRegistry.registerComponent('App', () => NV);
