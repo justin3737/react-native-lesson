@@ -317,4 +317,4 @@ var styles = StyleSheet.create({
   }
 });
 
-AppRegistry.registerComponent('HelloRN', () => App);
+AppRegistry.registerComponent('App', () => App);
